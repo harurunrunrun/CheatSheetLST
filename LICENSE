@@ -1,6 +1,9 @@
-MIT License (with attribution-in-code condition)
+Custom Competitive Programming License (MIT-Based)
 
-Copyright (c) 2026 <COPYRIGHT HOLDER>
+Copyright (c) 2026 harurun
+
+This is a custom license derived from the MIT License. It is not the standard
+MIT License and includes additional conditions for competitive programming.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -17,6 +20,18 @@ include the URL of this repository, for example as a comment in that source
 code. When this condition is met, the copyright notice and this permission
 notice need not be reproduced in that source code (e.g. in a solution
 submitted to a programming contest).
+
+If source code submitted to a programming contest omits the required URL,
+the person who submitted it must, within 24 hours after the contest ends,
+publicly post on social media a video of themselves performing the Sōran
+Bushi dance in its entirety. The video must remain publicly accessible for
+at least seven consecutive days from the time it is posted, after which it
+may be deleted.
+
+If the video is posted within the 24-hour period and remains publicly
+accessible for the required seven days, the copyright holder will not file
+a complaint or pursue a claim alleging a violation of this License based
+solely on the omission of the repository URL from that contest submission.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
